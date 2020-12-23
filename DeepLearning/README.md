@@ -4,3 +4,5 @@ Implementation of text classifiers using Recurrent Neural Network (RNN) and Conv
 pre-trained embeddings to improve the classification performance.
 
 Framework: PyTorch
+
+Text Preprocessing: NLTK
